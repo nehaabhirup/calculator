@@ -4,6 +4,7 @@
     box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.75);
     border-radius: 20px;
     margin: auto;
+    margin-top: 3%;
     width: 450px;
     height: 450px;
 }
@@ -21,13 +22,14 @@
     margin-left: 2%;
     font-size: 34px;
     color: white;
+    text-align: end;
 }
 .button{
     height: 60px;
-    padding: 5px;
+    padding:5px ;
     background-color: #978fa0;
     border-radius: 3px;
-    border: 1px solid #c4c4c4;
+    border: none;
     cursor: pointer;
     font-size: 34px;
     color: #333;
